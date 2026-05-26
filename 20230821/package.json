@@ -1,0 +1,19 @@
+{
+  "name": "kick-optimizer",
+  "version": "2.4.9",
+  "description": "AI-Powered Football Cleat Recommendation System with Cyberpunk Athletic-Tech Styling",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000"
+  },
+  "keywords": [
+    "football",
+    "cleats",
+    "ai",
+    "recommendation",
+    "cyberpunk"
+  ],
+  "author": "Kick-Optimizer AI Team",
+  "license": "MIT"
+}
